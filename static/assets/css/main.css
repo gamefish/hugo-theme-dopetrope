@@ -1069,7 +1069,7 @@
 /* Basic */
 
 	body {
-		background: #252122;
+		background: #272421;
 		font-family: 'Source Sans Pro';
 		font-weight: 300;
 		color: #5d5d5d;
@@ -1093,7 +1093,7 @@
 	}
 
 	strong, b {
-		color: #252122;
+		color: #f7b634;
 		font-weight: 400;
 	}
 
@@ -1120,7 +1120,7 @@
 	}
 
 	h1, h2, h3, h4, h5, h6 {
-		color: #252122;
+		color: #5993d4;
 		font-weight: 700;
 	}
 
@@ -1130,7 +1130,7 @@
 	}
 
 	a {
-		color: #d52349;
+		color: #c27ba0;
 		text-decoration: underline;
 	}
 
@@ -1157,7 +1157,7 @@
 
 	form label {
 		display: block;
-		color: #252122;
+		color: #f7b634;
 		font-weight: 400;
 		margin: 0 0 0.5em 0;
 	}
@@ -1303,7 +1303,7 @@
 		cursor: pointer;
 		border: 0;
 		border-radius: 5px;
-		background: #d52349;
+		background: #c27ba0;
 		color: #fff !important;
 		font-weight: 700;
 		outline: 0;
@@ -1334,7 +1334,7 @@
 		input[type="reset"].alt,
 		button.alt,
 		.button.alt {
-			background: #252122;
+			background: #f7b634;
 		}
 
 			input[type="button"].alt:hover,
@@ -1445,7 +1445,7 @@
 		position: absolute;
 		left: 0;
 		top: 1.3em;
-		background-color: #d52349;
+		background-color: #c27ba0;
 		height: 3.5em;
 		text-align: center;
 		color: #fff;
@@ -1460,7 +1460,7 @@
 			position: absolute;
 			bottom: 0;
 			right: -1.2em;
-			border-left: solid 1.25em #d52349;
+			border-left: solid 1.25em #c27ba0;
 			border-top: solid 1.8em transparent;
 			border-bottom: solid 1.8em transparent;
 		}
@@ -1610,7 +1610,7 @@
 		.icon.featured {
 			position: relative;
 			display: inline-block;
-			background-color: #d52349;
+			background-color: #c27ba0;
 			width: 9em;
 			padding: 1.75em 0 0.75em 0;
 			border-top-left-radius: 5px;
@@ -1630,17 +1630,17 @@
 				position: absolute;
 				bottom: -1.95em;
 				left: 0;
-				border-top: solid 2em #d52349;
+				border-top: solid 2em #c27ba0;
 				border-left: solid 4.5em transparent;
 				border-right: solid 4.5em transparent;
 			}
 
 			.icon.featured.alt {
-				background-color: #252122;
+				background-color: #f7b634;
 			}
 
 				.icon.featured.alt:after {
-					border-top-color: #252122;
+					border-top-color: #f7b634;
 				}
 
 			.icon.featured.alt2 {
@@ -1662,8 +1662,8 @@
 	}
 
 		#banner header {
-			background-color: #252122;
-			background-color: rgba(34, 30, 31, 0.98);
+			background-color: #f7b634;
+			background-color: rgba(54, 50, 31, 0.98);
 		}
 
 			#banner header h2 {
@@ -1672,7 +1672,7 @@
 			}
 
 			#banner header p {
-				color: #d52349;
+				color: #c27ba0;
 				padding: 0;
 				font-style: normal;
 				margin: 0;
@@ -1903,7 +1903,7 @@
 			}
 
 				#header h1 {
-					color: #252122;
+					color: #5993d4;
 					font-weight: 900;
 					font-size: 2.5em;
 					letter-spacing: -0.035em;
@@ -1943,14 +1943,14 @@
 					}
 
 					#nav > ul > li.current > a {
-						background: #d52349;
+						background: #c27ba0;
 						color: #fff !important;
 						font-weight: 700;
 					}
 
 			.dropotron {
 				border-radius: 5px;
-				background-color: #252122;
+				background-color: #f7b634;
 				background-color: rgba(34, 30, 31, 0.98);
 				padding: 1.25em 1.5em 1.25em 1.5em;
 				font-style: italic;
@@ -1991,7 +1991,7 @@
 						top: -9px;
 						border-left: solid 10px transparent;
 						border-right: solid 10px transparent;
-						border-bottom: solid 10px #252122;
+						border-bottom: solid 10px #f7b634;
 						border-bottom-color: rgba(34, 30, 31, 0.98);
 					}
 
@@ -2495,7 +2495,7 @@
 			}
 
 				#header h1 {
-					color: #252122;
+					color: #5993d4;
 					font-weight: 900;
 					font-size: 1.75em;
 					letter-spacing: -0.035em;
